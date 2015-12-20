@@ -6,4 +6,4 @@
  *
  */
 
-package state_machine;
+package States;
